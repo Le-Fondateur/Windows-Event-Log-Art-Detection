@@ -24,7 +24,7 @@ _"pip install -r requirements.txt"_
 **Installation and Usage**
 **Clone the Repository**:
 
-_"git clone https://github.com/your-username/windows-event-log-art-detection.git"_
+_"git clone https://github.com/Le-Fondateur/Windows-Event-Log-Art-Detection"_
 _"cd windows-event-log-art-detection"_
 
 **Run the Feature Extraction:**
