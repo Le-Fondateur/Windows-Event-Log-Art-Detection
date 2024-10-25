@@ -1,0 +1,6 @@
+pywin32
+pandas
+scikit-learn
+joblib
+dash
+plotly
